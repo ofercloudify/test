@@ -88,15 +88,5 @@
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/kubernetes/README.md",
     "created_at": "2017-10-19T12:44:56Z",
     "updated_at": "2018-05-16T17:26:16Z"
-  },
-  {
-    "id": "getting-started",
-    "name": "getting-started-blueprint",
-    "description": "Getting Started Application",
-    "html_url": "https://github.com/cloudify-community/blueprint-examples/tree/master/kubernetes",
-    "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/latest/getting-started.zip",
-    "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/kubernetes/README.md",
-    "created_at": "2017-10-19T12:44:56Z",
-    "updated_at": "2018-05-16T17:26:16Z"
   }
 ]
