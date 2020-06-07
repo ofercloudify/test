@@ -2,7 +2,7 @@
   {
     "id": "Kuku-AWS-VM-Setup",
     "name": "Kuku-AWS-Basics-VM-Setup",
-    "description": "Level 1: Basic examples - AWS infrastructure provisioning",
+    "description": "KukuLevel 1: Basic examples - AWS infrastructure provisioning",
     "html_url": "https://github.com/cloudify-community/blueprint-examples/tree/master/virtual-machine",
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/virtual-machine.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/virtual-machine/README.md",
