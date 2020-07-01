@@ -55,6 +55,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/hello-world-example.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/hello-world-example/README.md",
     "main_blueprint": "aws.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/aws.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -66,6 +67,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/hello-world-example.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/hello-world-example/README.md",
     "main_blueprint": "azure.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/azurelogo.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -76,6 +78,7 @@
     "html_url": "https://github.com/cloudify-community/blueprint-examples/hello-world-example",
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/hello-world-example.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/hello-world-example/README.md",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/gcplogo.png",
     "main_blueprint": "gcp.yaml",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
@@ -88,6 +91,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/hello-world-example.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/hello-world-example/README.md",
     "main_blueprint": "openstack.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/oslogo.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -99,6 +103,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/virtual-machine.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/virtual-machine/README.md",
     "main_blueprint": "aws-terraform.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/tf.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -110,6 +115,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/virtual-machine.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/virtual-machine/README.md",
    	"main_blueprint": "aws-cloudformation.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/cloudformation.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -121,6 +127,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/virtual-machine.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/virtual-machine/README.md",
     "main_blueprint": "azure-arm.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/arm.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -132,6 +139,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/getting-started.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/getting-started/README.md",
     "main_blueprint": "mc-jboss.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/jboss.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
@@ -143,6 +151,7 @@
     "zip_url": "https://github.com/cloudify-community/blueprint-examples/releases/download/5.0.5-40/getting-started.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/getting-started/README.md",
     "main_blueprint": "mc-nodejs.yaml",
+    "image_url": "https://github.com/ofercloudify/test/raw/master/nodejs.png",
     "created_at": "2017-05-11T19:32:13Z",
     "updated_at": "2020-05-21T14:25:37Z"
   },
