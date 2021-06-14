@@ -124,7 +124,7 @@
     "name": "VMware-VM",
     "description": "Basic examples - VMware infrastructure provisioning",
     "html_url": "https://github.com/cloudify-community/blueprint-examples/tree/master/getting-started",
-    "zip_url": "https://github.com/ofercloudify/test/raw/master/getting-started.zip",
+    "zip_url": "https://github.com/ofercloudify/test/raw/master/virtual-machine.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/getting-started/README.md",
     "main_blueprint": "vsphere.yaml",
     "image_url": "https://github.com/ofercloudify/test/raw/master/vmware.png",
