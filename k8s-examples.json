@@ -28,7 +28,7 @@
     "name": "Kubernetes-GCP-GKE",
     "description": "Kubernetes: Setup a Kubernetes cluster in GCP leveraging GKE",
     "html_url": "https://github.com/cloudify-community/blueprint-examples/tree/master/kubernetes",
-    "zip_url": "https://github.com/ofercloudify/test/blob/master/kubernetes-gcp-gke.zip",
+    "zip_url": "https://github.com/ofercloudify/test/raw/master/kubernetes-gcp-gke.zip",
     "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/kubernetes/README.md",
     "main_blueprint": "blueprint.yaml",
     "image_url": "https://repository.cloudifysource.org/cloudify/blueprints/5.1/images/k8s.png",
